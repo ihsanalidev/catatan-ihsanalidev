@@ -1,4 +1,7 @@
 Prioritas Pengerjaan Tugas
+============================================================
 - Koding : 2 video pembelajaran setiap hari
 - Animasi : membuat 2 video animasi setiap minggu
-- Portofolio : Menambah min. 1 portofolio setiap minggu
+- Grafis : membuat 2 grafis setiap minggu
+-------------------------------------------------------------
+- Portofolio : Menambah 1 part portofolio (koding, animasi, dan grafis) setiap minggu
